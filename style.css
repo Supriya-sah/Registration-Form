@@ -1,0 +1,36 @@
+*{
+    margin:0;
+    padding:0;
+}
+body{
+    background: url("image/new.jpg") no-repeat ;
+    background-size: cover;
+}
+div.main{
+    width:400px;
+    margin:100px auto 0px auto;
+
+}
+h2{
+    text-align: center;
+    padding=28px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+div.registration{
+    background-color:rgba(212, 191, 221, 0.521) ;
+    font-size: larger;
+    border-radius:12px ;
+}
+label{
+     font-family: fantasy;
+     font-size: initial;
+}
+input#name{
+    background-color: rgba(145, 123, 201, 0.356);
+    font-family: cursive;
+}
+input#age{
+    background-color: rgba(145, 123, 201, 0.356);
+    font-family: cursive;
+}
